@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Reubenvortex-b1Rb.aternos.me:30015",
+    "port": 30015,
+    "version": "26.3 (181)",
     "try-creative": false
   },
   "position": {
